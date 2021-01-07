@@ -1,0 +1,40 @@
+body {
+    background-color: #2E2A31;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: coral;
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+p.header {
+    font-family: Hack, monospace;
+    color: #2e87a0;
+    font-size: 20px
+    }
+
+p.date {
+    font-family: Hack, monospace;
+    color: #8a78bb;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+    }
+    p.braces {
+        font-family: Hack, monospace;
+        font-size: 20px;
+        color: #B83715
+
+    }
