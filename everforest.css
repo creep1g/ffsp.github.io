@@ -1,17 +1,17 @@
 @import url("index.css");
 
 :root {
-	--bg:		#323d43;
-	--fg:		#d8caac;
-	--title:	#a7c080;
-	--hl:		#83c092;
-	--black:	#465258;
+	--bg:		#0e2624;
+	--fg:		#fffff7;
+	--title:	#b0f4c5;
+	--hl:		#78ffff;
+	--black:	#1b4b47;
 	--red:		#e67e80;
-	--green:	#a7c080;
-	--yellow:	#dbbc7f;
-	--blue:		#7fbbb3;
+	--green:	#b0f4c5;
+	--yellow:	#ffffcf;
+	--blue:		#5EA8AE;
 	--magenta:	#d699b6;
-	--cyan:		#83c092;
+	--cyan:		#1b4b39;
 }
 
-body { background-image: url("img/everforest-wall.png"); }
+body { background-image: url("img/12.png"); }
